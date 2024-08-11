@@ -38,8 +38,7 @@
    cd alien_invasion
 
 ## Project Structure
-
-   alien_invasion/
+alien_invasion/
 ├── alien_invasion.py        # Main game file
 ├── settings.py              # Game settings
 ├── ship.py                  # Ship class
@@ -54,4 +53,5 @@
     ├── laser.wav            # Laser sound effect
     ├── explosion.wav        # Explosion sound effect
     └── spaceship.png        # Image of the spaceship
+
 
